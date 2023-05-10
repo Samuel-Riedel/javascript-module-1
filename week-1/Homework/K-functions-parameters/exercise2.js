@@ -1,5 +1,11 @@
 // Declare your function first
+function divider (num1, num2)
+{
+return num1 / num2
 
-var result = divide(3, 4);
+}
+
+var result = divider(3, 4);
+
 
 console.log(result);
